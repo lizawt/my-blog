@@ -4,8 +4,7 @@
 __pycache__
 
 # Env
-.envs
-jangogirl/
+.env
 envs/
 
 # Database
